@@ -1,36 +1,34 @@
 # Hi, I'm Soumadeep 👋
 
-## Full-Stack Developer | Backend Engineer | AI Enthusiast
+## Full-Stack Developer | Backend Engineer | AI Builder
 
-I’m a software developer who enjoys building complete products — from thoughtful user interfaces and APIs to reliable backend systems, databases, and intelligent features.
+I build software that connects product thinking, backend reliability, and practical AI-driven experiences. My work spans full-stack development, scalable backend systems, workflow automation, and intelligent features that improve real-world user experiences.
 
-My main interests are **full-stack development, backend engineering, distributed systems, and applied AI**. I like understanding a product end to end: the user problem, the architecture behind it, the data flowing through it, and the experience people ultimately use.
-
-I’m open to opportunities as a **Full-Stack Developer, Backend Engineer, or AI-focused Software Engineer**.
+I work across the full application lifecycle — from interface development and API design to database architecture, system reliability, and business logic. My approach is focused on building software that is useful, maintainable, secure, and scalable.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=Full-Stack+Developer;Backend+Engineer;AI+%26+Automation+Enthusiast;Building+useful%2C+reliable+software;Open+to+opportunities" alt="Full-Stack Developer | Backend Engineer | AI Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=Full-Stack+Developer;Backend+Engineer;AI+%26+Automation+Builder;Reliable+Software+%7C+Practical+Solutions" alt="Full-Stack Developer | Backend Engineer | AI Builder" />
 </p>
 
 ## What I Build
 
 - 🌐 **Full-stack applications** with clean interfaces, APIs, authentication, and data-driven workflows
 - ⚙️ **Backend systems** designed for reliability, scalability, security, and maintainability
-- 🤖 **AI-enabled products** that use intelligent features to improve real user workflows
+- 🤖 **AI-enabled products** that apply intelligent features to practical user workflows
 - 📨 **Event-driven services** with queues, workers, retries, idempotency, and failure handling
-- 💳 **Fintech and transactional systems** where data consistency and correctness matter
+- 💳 **Fintech and transactional systems** where data consistency and correctness are essential
 
 ## Core Skills
 
 ### Full-Stack Development
 
-- JavaScript / Node.js
+- JavaScript and Node.js
 - Express.js and REST APIs
 - React and modern frontend development
 - HTML, CSS, and responsive UI
 - Flutter and mobile application development
 
-### Backend & Systems
+### Backend and Systems
 
 - API design and service architecture
 - MySQL and relational data modeling
@@ -40,12 +38,12 @@ I’m open to opportunities as a **Full-Stack Developer, Backend Engineer, or AI
 - Authentication, validation, and webhook security
 - Idempotency, retries, state machines, and error handling
 
-### AI & Intelligent Applications
+### AI and Intelligent Applications
 
-- AI-powered product ideas and workflow automation
-- Intelligent document and resume analysis concepts
-- Building practical software around AI capabilities
-- Connecting AI features with useful interfaces, APIs, and backend services
+- AI-powered product features and workflow automation
+- Intelligent document and resume analysis
+- Practical software built around AI capabilities
+- Connecting AI features with interfaces, APIs, and backend services
 
 ### Tools
 
@@ -61,7 +59,7 @@ I’m open to opportunities as a **Full-Stack Developer, Backend Engineer, or AI
 
 A high-throughput fintech payment webhook and ledger pipeline built with Node.js, Express.js, RabbitMQ, Redis, MySQL, and Sequelize.
 
-The project demonstrates my interest in serious backend engineering, including:
+The project demonstrates strong backend engineering fundamentals, including:
 
 - HMAC-SHA256 webhook verification
 - Fast request acknowledgment
@@ -73,30 +71,20 @@ The project demonstrates my interest in serious backend engineering, including:
 - Double-entry ledger accounting
 - Production-minded security and backpressure management
 
-This project represents the kind of engineering problems I enjoy: building systems that remain correct and dependable when traffic, retries, duplicates, and failures happen.
+This project reflects my ability to design systems that remain correct and dependable when traffic spikes, retries, duplicate events, and partial failures occur.
 
 ## Engineering Approach
 
 - I think about the complete product, not only one layer of the stack
 - I value clear architecture and maintainable code
 - I care about correctness, security, performance, and user experience
-- I enjoy learning new technologies by building practical projects
-- I’m comfortable moving between frontend, backend, databases, and system design
-- I’m interested in using AI to make products more useful and efficient
+- I build practical projects to learn and apply new technologies
+- I move comfortably between frontend, backend, databases, and system design
+- I apply AI thoughtfully where it can improve product value and efficiency
 
-## Open to Opportunities
+## Professional Summary
 
-I’m currently interested in:
-
-- Full-Stack Developer roles
-- Backend Engineer roles
-- Node.js Developer roles
-- AI Engineer or AI-focused Software Engineer roles
-- Product engineering opportunities
-- Fintech, platform, and distributed-systems teams
-- Internships and collaborative projects where I can contribute and grow
-
-If you’re building a product that combines strong engineering with a meaningful user problem, I’d love to connect.
+Software engineer with a strong foundation in full-stack development, backend architecture, distributed systems, and AI-enabled product building. Experienced in developing practical applications with a focus on reliability, performance, maintainability, and user value.
 
 ## Let's Connect
 
