@@ -89,8 +89,8 @@ Software engineer with a strong foundation in full-stack development, backend ar
 ## Let's Connect
 
 - GitHub: [@soumadeeep](https://github.com/soumadeeep)
-- LinkedIn: **www.linkedin.com/in/soumadeep-barik-b50827238**
-- Email: **work.soumadeep@gmail.com**
+- LinkedIn: [@LinkedIn] (www.linkedin.com/in/soumadeep-barik-b50827238)
+- Email: work.soumadeep@gmail.com
 
 <p align="center">
   <a href="https://github.com/soumadeeep?tab=repositories">
