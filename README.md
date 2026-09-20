@@ -1,95 +1,102 @@
 # Hi, I'm Soumadeep 👋
 
-## Backend Engineer building reliable, event-driven payment systems
+## Full-Stack Developer | Backend Engineer | AI Enthusiast
 
-I design and build backend systems that remain reliable under retries, traffic spikes, duplicate events, and partial failures. My current focus is production-oriented fintech infrastructure, asynchronous processing, distributed systems, and transactional correctness.
+I’m a software developer who enjoys building complete products — from thoughtful user interfaces and APIs to reliable backend systems, databases, and intelligent features.
 
-I’m open to conversations about **Backend Engineer**, **Node.js**, **Distributed Systems**, and **Fintech** opportunities.
+My main interests are **full-stack development, backend engineering, distributed systems, and applied AI**. I like understanding a product end to end: the user problem, the architecture behind it, the data flowing through it, and the experience people ultimately use.
+
+I’m open to opportunities as a **Full-Stack Developer, Backend Engineer, or AI-focused Software Engineer**.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Backend+Engineer;Event-Driven+Systems+Builder;Fintech+%26+Distributed+Systems+Enthusiast;Open+to+engineering+opportunities" alt="Backend Engineer | Event-Driven Systems Builder | Fintech Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=Full-Stack+Developer;Backend+Engineer;AI+%26+Automation+Enthusiast;Building+useful%2C+reliable+software;Open+to+opportunities" alt="Full-Stack Developer | Backend Engineer | AI Enthusiast" />
 </p>
+
+## What I Build
+
+- 🌐 **Full-stack applications** with clean interfaces, APIs, authentication, and data-driven workflows
+- ⚙️ **Backend systems** designed for reliability, scalability, security, and maintainability
+- 🤖 **AI-enabled products** that use intelligent features to improve real user workflows
+- 📨 **Event-driven services** with queues, workers, retries, idempotency, and failure handling
+- 💳 **Fintech and transactional systems** where data consistency and correctness matter
+
+## Core Skills
+
+### Full-Stack Development
+
+- JavaScript / Node.js
+- Express.js and REST APIs
+- React and modern frontend development
+- HTML, CSS, and responsive UI
+- Flutter and mobile application development
+
+### Backend & Systems
+
+- API design and service architecture
+- MySQL and relational data modeling
+- Sequelize and database transactions
+- Redis caching and distributed locks
+- RabbitMQ and asynchronous processing
+- Authentication, validation, and webhook security
+- Idempotency, retries, state machines, and error handling
+
+### AI & Intelligent Applications
+
+- AI-powered product ideas and workflow automation
+- Intelligent document and resume analysis concepts
+- Building practical software around AI capabilities
+- Connecting AI features with useful interfaces, APIs, and backend services
+
+### Tools
+
+- Git and GitHub
+- Docker and Docker Compose
+- Postman
+- VS Code
+- Figma
 
 ## Featured Project
 
-### High-Throughput Fintech Payment Webhook & Ledger Pipeline
+### [Payment-Webhook](https://github.com/soumadeeep/Payment-Webhook)
 
-**[Payment-Webhook](https://github.com/soumadeeep/Payment-Webhook)** is an event-driven backend system designed to process high-volume payment webhooks safely and asynchronously.
+A high-throughput fintech payment webhook and ledger pipeline built with Node.js, Express.js, RabbitMQ, Redis, MySQL, and Sequelize.
 
-The project focuses on the engineering challenges that matter in payment infrastructure:
+The project demonstrates my interest in serious backend engineering, including:
 
-- ⚡ **Fast acknowledgment:** verifies HMAC-SHA256 signatures and acknowledges requests quickly before heavy database work
-- 📨 **Reliable asynchronous processing:** uses RabbitMQ to absorb traffic bursts and decouple ingestion from workers
-- 🔁 **Idempotency:** combines Redis atomic locks with MySQL unique constraints to prevent duplicate financial transactions
-- 🔐 **Correct state transitions:** handles out-of-order payment events with pessimistic row locking and a finite state machine
-- 💰 **Double-entry accounting:** records immutable ledger entries while ensuring debits and credits remain balanced
-- 🛡️ **Production-minded security:** designed for deployment behind Cloudflare/WAF with edge rate limiting and DDoS mitigation
+- HMAC-SHA256 webhook verification
+- Fast request acknowledgment
+- Durable asynchronous processing with RabbitMQ
+- Redis-based atomic idempotency protection
+- MySQL constraints and ACID transactions
+- Out-of-order event handling with state validation
+- Pessimistic row locking
+- Double-entry ledger accounting
+- Production-minded security and backpressure management
 
-### Architecture
+This project represents the kind of engineering problems I enjoy: building systems that remain correct and dependable when traffic, retries, duplicates, and failures happen.
 
-```text
-Payment Gateway
-      │
-      ▼
-Express Ingestion API
-(HMAC verification + fast ACK)
-      │
-      ▼
-RabbitMQ Durable Queue
-      │
-      ▼
-Background Workers
-(Redis idempotency + FSM validation)
-      │
-      ▼
-MySQL / Sequelize
-(ACID transactions + double-entry ledger)
-```
+## Engineering Approach
 
-## Technology Stack
-
-### Backend & Runtime
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### Data & Messaging
-
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
-
-### Engineering Interests
-
-- Event-driven architecture
-- Distributed systems and backpressure
-- Payment processing and financial consistency
-- Idempotency and exactly-once business effects
-- ACID transactions and database locking
-- API security and webhook verification
-- Scalable backend architecture
-
-## What I Bring
-
-- A systems-first approach to backend engineering
-- Strong attention to correctness in financial workflows
-- Practical understanding of queues, retries, locks, and failure handling
-- Curiosity and willingness to learn from experienced engineering teams
-- Motivation to build dependable products that solve real problems
+- I think about the complete product, not only one layer of the stack
+- I value clear architecture and maintainable code
+- I care about correctness, security, performance, and user experience
+- I enjoy learning new technologies by building practical projects
+- I’m comfortable moving between frontend, backend, databases, and system design
+- I’m interested in using AI to make products more useful and efficient
 
 ## Open to Opportunities
 
 I’m currently interested in:
 
+- Full-Stack Developer roles
 - Backend Engineer roles
-- Node.js Engineer roles
-- Fintech and payment infrastructure teams
-- Distributed systems and platform engineering opportunities
-- Backend-focused internships and collaborations
+- Node.js Developer roles
+- AI Engineer or AI-focused Software Engineer roles
+- Product engineering opportunities
+- Fintech, platform, and distributed-systems teams
+- Internships and collaborative projects where I can contribute and grow
 
-If you’re building reliable products or payment infrastructure, I’d be happy to connect and discuss how I can contribute.
+If you’re building a product that combines strong engineering with a meaningful user problem, I’d love to connect.
 
 ## Let's Connect
 
@@ -98,7 +105,7 @@ If you’re building reliable products or payment infrastructure, I’d be happy
 - Email: **add your professional email address**
 
 <p align="center">
-  <a href="https://github.com/soumadeeep/Payment-Webhook">
-    <img src="https://img.shields.io/badge/Featured%20Project-Payment--Webhook-0A66C2?style=for-the-badge&logo=github" alt="Featured Payment Webhook Project" />
+  <a href="https://github.com/soumadeeep?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Projects-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" />
   </a>
 </p>
