@@ -18,41 +18,6 @@ I work across the full application lifecycle — from interface development and 
 - 📨 **Event-driven services** with queues, workers, retries, idempotency, and failure handling
 - 💳 **Fintech and transactional systems** where data consistency and correctness are essential
 
-## Core Skills
-
-### Full-Stack Development
-
-- JavaScript and Node.js
-- Express.js and REST APIs
-- React and modern frontend development
-- HTML, CSS, and responsive UI
-- Flutter and mobile application development
-
-### Backend and Systems
-
-- API design and service architecture
-- MySQL and relational data modeling
-- Sequelize and database transactions
-- Redis caching and distributed locks
-- RabbitMQ and asynchronous processing
-- Authentication, validation, and webhook security
-- Idempotency, retries, state machines, and error handling
-
-### AI and Intelligent Applications
-
-- AI-powered product features and workflow automation
-- Intelligent document and resume analysis
-- Practical software built around AI capabilities
-- Connecting AI features with interfaces, APIs, and backend services
-
-### Tools
-
-- Git and GitHub
-- Docker and Docker Compose
-- Postman
-- VS Code
-- Figma
-
 ## Featured Project
 
 ### [Payment-Webhook](https://github.com/soumadeeep/Payment-Webhook)
